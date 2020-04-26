@@ -1,5 +1,5 @@
 function changeColor(index) {
-  const p = document.getElementById('section');
+  const p = document.getElementById('line3');
   console.log(p);
   switch (index) {
     case 1:
@@ -15,7 +15,7 @@ function changeColor(index) {
 }
 
 function changeVideo(index) {
-  const p = document.getElementById('player');
+  const p = document.getElementById('line4');
   console.log(p);
   switch (index) {
     case 1:

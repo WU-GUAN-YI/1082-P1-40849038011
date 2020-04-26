@@ -13,80 +13,80 @@ body {
   background-color: bisque;
 }
 
-#container {
+#line1{
   width: 90%;
   border: 2px solid purple;
   margin: 20px auto;
 }
 
-#heading {
+#line2 {
   width: 100%;
   height: 100px;
   background-color: darkcyan;
   text-align: center;
 }
 
-#heading ul {
+#line2 ul {
   display: flex;
   margin-top: 25px;
   padding-left: 20px;
 }
 
-#heading li {
+#line2 li {
   list-style-type: none;
   padding: 0px 5px 10px 5px;
   font-size: 15px;
 }
 
-#heading ul a {
+#line2 ul a {
   padding: 5px;
   background-color: darksalmon;
 }
 
-#heading ul a:hover {
+#line2 ul a:hover {
   background-color: crimson;
 }
 
-#main {
+#line3 {
   display: flex;
   background-color: darkturquoise;
 }
 
-#main ul {
+#line3 ul {
   display: flex;
   flex-direction: column;
   padding-top: 20px;
 }
 
-#main li {
+#line3 li {
   list-style-type: none;
   text-align: center;
   margin: 8px;
   font-size: 0.6rem;
 }
 
-#main ul a {
+#line3 ul a {
   padding: 5px;
   background-color: darksalmon;
 }
 
-#main ul a:hover {
+#line3 ul a:hover {
   background-color: crimson;
 }
 
-aside {
+#line6 {
   width: 20%;
   height: 100%;
 }
 
-#section {
+#line4 {
   width: 80%;
   height: 100%;
   background-color: rgb(152, 230, 230);
   padding: 10px;
 }
 
-#footer {
+#line6 {
   width: 100%;
   height: 70px;
   background-color: darkgray;
