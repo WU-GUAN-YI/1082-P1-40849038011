@@ -55,13 +55,14 @@ body {
 #main ul {
   display: flex;
   flex-direction: column;
+  padding-top: 20px;
 }
 
 #main li {
   list-style-type: none;
   text-align: center;
   margin: 8px;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
 }
 
 #main ul a {
@@ -76,7 +77,6 @@ body {
 aside {
   width: 20%;
   height: 100%;
-  padding: 10px;
 }
 
 #section {
